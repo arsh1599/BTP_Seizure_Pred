@@ -236,8 +236,5 @@ def write_to_file(file, mode, start, end, temp, df1, data, seizure):
 # In[167]:
 
 
-k = pd.read_csv('Training_Data.csv')
-k.shape
-
 
 # In[ ]:
